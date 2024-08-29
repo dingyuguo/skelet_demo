@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
         ),
         body: MagnifyingGlassAnimation(),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
